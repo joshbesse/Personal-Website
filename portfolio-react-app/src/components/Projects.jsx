@@ -3,8 +3,8 @@ import Relig from '../assets/religrecid.jpeg'
 import Netflix from '../assets/netflix.png'
 import Fetal from '../assets/fetalhealth.png'
 import Sentiment from '../assets/sentiment.jpg'
-import Sleep from '../assets/sleepincome.webp'
 import AlgoTrading from '../assets/algo_trading.webp'
+import NFL from '../assets/nfl_logo.jpg'
 
 const Work = () => {        
   return (
@@ -43,6 +43,20 @@ const Work = () => {
                      <div className='pt-8 text-center'>
                          <a href='https://sentiment-analysis-application.netlify.app/'>
                              <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Website</button>
+                         </a>
+                     </div>
+                 </div>
+             </div>
+             <div style={{backgroundImage: `url(${NFL})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                 
+                 {/* Hover Effects */}
+                 <div className="opacity-0 group-hover:opacity-100 ">
+                     <span className="text-2xl font bold text-white">
+                         NFL New Kickoff<br></br> Analysis
+                     </span>
+                     <div className='pt-8 text-center'>
+                         <a href='https://github.com/joshbesse/NFL-New-Kickoff-Analysis/blob/main/kickoff.ipynb'>
+                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Notebook</button>
                          </a>
                      </div>
                  </div>
@@ -92,29 +106,6 @@ const Work = () => {
                     </div>
                 </div>
             </div>
-            <div style={{backgroundImage: `url(${Sleep})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
-                 
-                {/* Hover Effects */}
-                <div className="opacity-0 group-hover:opacity-100 ">
-                    <span className="text-xl font bold text-white">
-                        Exploring the Links: Sleep,
-                    </span>
-                    <br></br>
-                    <span className="text-xl font bold text-white">
-                        Age, Gender, Education, and 
-                    </span>
-                    <br></br>
-                    <span className="text-xl font bold text-white">
-                        Their Influence on Income
-                    </span>
-                    <div className='pt-8 text-center'>
-                        <a href='https://github.com/joshbesse/Exploring-the-Links-Sleep-Age-Gender-Education-and-Their-Influence-on-Income/blob/main/Stats_Sleep_Income.pdf'>
-                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Paper</button>
-                        </a>    
-                    </div>
-                </div>
-            </div>
-
         </div>
         </div>
     </div>
