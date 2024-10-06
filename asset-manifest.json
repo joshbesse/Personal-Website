@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Personal-Website/static/css/main.1f1e7012.css",
-    "main.js": "/Personal-Website/static/js/main.1a092790.js",
+    "main.css": "/Personal-Website/static/css/main.0f2a31ae.css",
+    "main.js": "/Personal-Website/static/js/main.a4304ffd.js",
     "static/media/SQL.png": "/Personal-Website/static/media/SQL.386df0f5995e37bbb9a7.png",
     "static/media/sentiment.jpg": "/Personal-Website/static/media/sentiment.cc86a92628faa32762ef.jpg",
     "static/media/R.png": "/Personal-Website/static/media/R.f8f53ab7ea038445a7fe.png",
     "static/media/netflix.png": "/Personal-Website/static/media/netflix.58ed0fdb0e1a5c671fcc.png",
+    "static/media/nfl_logo.jpg": "/Personal-Website/static/media/nfl_logo.10b1f9264d29d0d867fc.jpg",
     "static/media/religrecid.jpeg": "/Personal-Website/static/media/religrecid.10967c3b8126eaaaa216.jpeg",
     "static/media/stata.png": "/Personal-Website/static/media/stata.190ba27f31f53b540e77.png",
     "static/media/java.png": "/Personal-Website/static/media/java.17cc62e26b45c04d0b98.png",
     "static/media/algo_trading.webp": "/Personal-Website/static/media/algo_trading.d7c1e19a20c7efcb9f6c.webp",
-    "static/media/sleepincome.webp": "/Personal-Website/static/media/sleepincome.f093d110b15fa119ba96.webp",
     "index.html": "/Personal-Website/index.html",
-    "main.1f1e7012.css.map": "/Personal-Website/static/css/main.1f1e7012.css.map",
-    "main.1a092790.js.map": "/Personal-Website/static/js/main.1a092790.js.map"
+    "main.0f2a31ae.css.map": "/Personal-Website/static/css/main.0f2a31ae.css.map",
+    "main.a4304ffd.js.map": "/Personal-Website/static/js/main.a4304ffd.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f1e7012.css",
-    "static/js/main.1a092790.js"
+    "static/css/main.0f2a31ae.css",
+    "static/js/main.a4304ffd.js"
   ]
 }
